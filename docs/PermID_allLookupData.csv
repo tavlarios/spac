@@ -1,0 +1,414 @@
+idxPermID,@type,tr-common:hasPermId,hasOrganizationPrimaryQuote,hasPrimaryInstrument,mdaas:HeadquartersAddress,mdaas:RegisteredAddress,hasActivityStatus,tr-org:hasHeadquartersFaxNumber,tr-org:hasHeadquartersPhoneNumber,hasHoldingClassification,hasIPODate,tr-org:hasLEI,hasLatestOrganizationFoundedDate,hasPrimaryBusinessSector,hasPrimaryEconomicSector,hasPrimaryIndustryGroup,isIncorporatedIn,isDomiciledIn,hasURL,vcard:organization-name,tr-org:hasRegisteredFaxNumber,tr-org:hasRegisteredPhoneNumber,hasInactiveDate,tr-common:hasName,hasAssetClass,hasInstrumentStatus,hasPrimaryQuote,isIssuedBy
+https://permid.org/1-5000066586,tr-org:Organization,5000066586,https://permid.org/1-55835022331,https://permid.org/1-8590013352,"601 Carlson Pkwy Ste 1400
+
+
+MINNETONKA
+MINNESOTA
+55305-5222
+","7 Saint Paul St Ste 820
+BALTIMORE
+MARYLAND
+21202-1681
+",tr-org:statusActive,12123643289,16126292500,tr-org:publiclyHeld,2009-10-29T04:00:00Z,549300ZUIBT6KH4HU823,2009-05-21T00:00:00Z,https://permid.org/1-4294952860,https://permid.org/1-4294952740,https://permid.org/1-4294952857,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,http://www.twoharborsinvestment.com/,Two Harbors Investment Corp,,,,,,,,
+https://permid.org/1-5064616744,tr-org:Organization,5064616744,,,"United States
+",,tr-org:statusActive,,,,,,,,,,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,Two Harbors Investments Corp,,,,,,,,
+https://permid.org/1-5064585796,tr-org:Organization,5064585796,https://permid.org/1-25727399607,https://permid.org/1-25727399608,"499 Park Avenue
+12Th Floor
+
+NEW YORK
+NEW YORK
+10022
+","Kingston Chambers, PO Box 173, Road Town
+TORTOLA
+British Virgin Islands
+",tr-org:statusActive,,12124868100,tr-org:publiclyHeld,2018-06-28T04:00:00Z,,2018-02-23T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/3577718/,http://sws.geonames.org/6252001/,https://hlacquisitions.com,HL Acquisitions Corp,,,,,,,,
+https://permid.org/1-5037131769,tr-org:Organization,5037131769,https://permid.org/1-21504039323,https://permid.org/1-21482930384,"Olazbal 1150
+BUENOS AIRES
+BUENOS AIRES
+1428
+Argentina
+","British Virgin Islands
+",tr-org:statusActive,,5.41E+11,,,,,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/3577718/,http://sws.geonames.org/3865483/,,BGS Acquisition Corp,,,,,,,,
+https://permid.org/1-4296139768,tr-org:Organization,4296139768,https://permid.org/1-25727402027,https://permid.org/1-25727402028,"77 Water St Fl 8
+
+
+NEW YORK
+NEW YORK
+10005-4418
+","28 Old Rudnick Ln
+
+
+DOVER
+DELAWARE
+19901-4912
+",tr-org:statusActive,,16462297549,tr-org:publiclyHeld,2018-05-23T04:00:00Z,,2016-03-17T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,https://tridentacquisitions.com/,Trident Acquisitions Corp,13027365945,13027363466,,,,,,
+https://permid.org/1-5057549580,tr-org:Organization,5057549580,,,"77 Water St Fl 8
+NEW YORK
+NEW YORK
+10005-4418
+","874 Walker Rd Ste C
+DOVER
+DELAWARE
+19904-2778
+",tr-org:statusActive,,16462297549,,,5493007X22HUUM7DN509,,,,,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,Trident Acquisitions Corp,,,,,,,,
+https://permid.org/1-5064572742,tr-org:Organization,5064572742,https://permid.org/1-25727399843,https://permid.org/1-25727399844,"A M F Building
+25-28 Old Burlington Street
+LONDON
+W1S 3AN
+United Kingdom
+","PO Box 309, Ugland House
+GRAND CAYMAN
+KY1-1104
+Cayman Islands
+",tr-org:statusActive,,4.42E+11,tr-org:publiclyHeld,2018-06-20T04:00:00Z,,2017-11-30T00:00:00Z,https://permid.org/1-4294952999,https://permid.org/1-4294952782,https://permid.org/1-4294952992,http://sws.geonames.org/3580718/,http://sws.geonames.org/2635167/,,Brooge Holdings Ltd,,,,,,,,
+https://permid.org/1-5068934015,tr-org:Organization,5068934015,https://permid.org/1-25727367035,https://permid.org/1-25727367036,"135 E 57th St Fl 18
+
+
+NEW YORK
+NEW YORK
+10022-2050
+","1013 Centre Rd Ste 403-B
+WILMINGTON
+DELAWARE
+19805-1270
+",tr-org:statusActive,,16469487100,tr-org:publiclyHeld,2019-07-12T04:00:00Z,549300PT0K8ZAABWJU18,2019-03-05T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,,,,Tuscan Holdings Corp II,18458183588,13024977115,,,,,,
+https://permid.org/1-5067935895,tr-org:Organization,5067935895,https://permid.org/1-25727377820,https://permid.org/1-25727377821,"135 E 57th St Fl 18
+
+
+NEW YORK
+NEW YORK
+10022-2050
+","1013 Centre Rd Ste 403-B
+WILMINGTON
+DELAWARE
+19805-1270
+",tr-org:statusActive,,19172086200,tr-org:publiclyHeld,2019-03-05T05:00:00Z,549300J4UX9OMHSTKS35,2018-11-05T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,Tuscan Holdings Corp,18458183588,13024977115,,,,,,
+https://permid.org/1-5035483747,tr-org:Organization,5035483747,,,"Panama
+",,tr-org:statusActive,,,,,,,,,,,http://sws.geonames.org/3703430/,,Leo Hldg (2008) Corp,,,,,,,,
+https://permid.org/1-5060557600,tr-org:Organization,5060557600,https://permid.org/1-25727409338,https://permid.org/1-25727409339,"21 Grosvenor Place
+
+
+LONDON
+SW1X 7HF
+United Kingdom
+","Maples Corporate Services Limited
+Ugland House
+PO Box 309
+GRAND CAYMAN
+KY1-1104
+Cayman Islands
+",tr-org:statusInActive,,4.42E+11,,2018-02-13T05:00:00Z,,2017-11-29T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/3580718/,http://sws.geonames.org/2635167/,,Leo Holdings Corp,,,2020-07-15T00:00:00Z,,,,,
+https://permid.org/1-5071525193,tr-org:Organization,5071525193,https://permid.org/1-25727356554,https://permid.org/1-25727356580,"Po Box 500, 71 Fort Street
+
+
+GRAND CAYMAN
+KY11106
+Cayman Islands
+","Cayman Islands
+",tr-org:statusActive,,13459494900,tr-org:publiclyHeld,2019-11-26T05:00:00Z,,,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/3580718/,http://sws.geonames.org/3580718/,,Alussa Energy Acquisition Corp,,,,,,,,
+https://permid.org/1-5065371456,tr-org:Organization,5065371456,https://permid.org/1-25727392974,https://permid.org/1-25727392975,"7660 Fay Avenue
+Suite H, Unit 339
+
+LA JOLLA
+CALIFORNIA
+92037
+","251 Little Falls Dr
+WILMINGTON
+DELAWARE
+19808-1674
+",tr-org:statusActive,,16197366855,tr-org:publiclyHeld,2018-10-05T04:00:00Z,,2018-05-21T00:00:00Z,https://permid.org/1-4294952830,https://permid.org/1-4294952723,https://permid.org/1-4294952829,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,Grid Dynamics Holdings Inc,13026365454,13026365400,,,,,,
+https://permid.org/1-5071553026,tr-org:Organization,5071553026,https://permid.org/1-25727356192,https://permid.org/1-25727356194,"Torre Virreyes
+Pedregal No. 24, Piso 6-601
+Col. Molino del Rey
+MEXICO, D.F.
+MEXICO, D.F.
+11040
+Mexico
+","Cayman Islands
+",tr-org:statusActive,,5.26E+11,tr-org:publiclyHeld,2019-12-11T05:00:00Z,,2019-10-02T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/3580718/,http://sws.geonames.org/3996063/,,LIV Capital Acquisition Corp,,,,,,,,
+https://permid.org/1-5054412488,tr-org:Organization,5054412488,https://permid.org/1-25727437810,https://permid.org/1-21607801584,"5221 N O Connor Blvd Fl 11
+IRVING
+TEXAS
+75039-3714
+","850 New Burton Rd Ste 201
+DOVER
+DELAWARE
+19904-5451
+",tr-org:statusActive,,19724321440,,2017-04-11T04:00:00Z,,2017-02-08T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,https://vantageenergy.com/,Vantage Energy Acquisition Corp,18002535177,18004831140,,,,,,
+https://permid.org/1-4295904285,tr-org:Organization,4295904285,,,"58th Floor
+153 East 53rd Street
+NEW YORK
+NEW YORK
+10022
+","Corporation Trust Center
+1209 Orange Street
+New Castle County
+WILMINGTON
+DELAWARE
+19801
+",tr-org:statusActive,,12124189600,,,,2006-08-01T00:00:00Z,,,,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,Columbus Acquisition Corp,13026555049,13026587581,,,,,,
+https://permid.org/1-5042384188,tr-org:Organization,5042384188,,,"United States
+",,tr-org:statusActive,,,,,,,https://permid.org/1-4294952739,https://permid.org/1-4294952740,https://permid.org/1-4294952738,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,Columbus Recycling Acquisition Corp,,,,,,,,
+https://permid.org/1-4295907799,tr-org:Organization,4295907799,,,"5591 Cannes Circle 206
+
+
+
+
+SARASOTA
+FLORIDA
+34231
+","5591 Cannes Circle
+206
+
+
+
+SARASOTA
+FLORIDA
+34231
+",tr-org:statusActive,,,,,,1991-09-18T00:00:00Z,,,,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,Greenstreet Inc,,,,,,,,
+https://permid.org/1-4296857160,tr-org:Organization,4296857160,,,"United States
+",,tr-org:statusActive,,,,,,,,,,,http://sws.geonames.org/6252001/,,RISCORP HEALTH PLANS INC,,,,,,,,
+https://permid.org/1-5000088092,tr-org:Organization,5000088092,https://permid.org/1-21475335465,https://permid.org/1-8590020360,"One Sarasota Tower, 2 North Tamiami Trail, Suite 608
+SARASOTA
+FLORIDA
+34236-5642
+","FLORIDA
+",tr-org:statusActive,,19413665015,,,,,https://permid.org/1-4294952866,https://permid.org/1-4294952740,https://permid.org/1-4294952865,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,Riscorp Inc,,,,,,,,
+https://permid.org/1-4295900385,tr-org:Organization,4295900385,https://permid.org/1-55835381765,https://permid.org/1-8590943359,"222 Grace Church St Ste 300
+PORT CHESTER
+NEW YORK
+10573-5168
+","36 South 18th Avenue Suite D
+
+
+BRIGHTON
+COLORADO
+80601
+",tr-org:statusActive,,19149395081,tr-org:publiclyHeld,1998-05-21T04:00:00Z,,1987-01-16T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,American Business Corp,,,,,,,,
+https://permid.org/1-4297095105,tr-org:Organization,4297095105,,,"BALA CYNWYD
+PENNSYLVANIA
+19004
+","PENNSYLVANIA
+",tr-org:statusActive,,,,,,,,,,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,American Business Credit Corp,,,,,,,,
+https://permid.org/1-4296059434,tr-org:Organization,4296059434,,,"3835 Presidential Pkwy
+ATLANTA
+GEORGIA
+30340
+",,tr-org:statusActive,17709869553,17709860246,,,,,,,,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,http://www.americanbusinessleasing.com,American Business Leasing Inc,,,,,,,,
+https://permid.org/1-5036203455,tr-org:Organization,5036203455,,,,,tr-org:statusActive,,,,,,,,,,http://sws.geonames.org/6252001/,,,American Business Services Corp,,,,,,,,
+https://permid.org/1-5000359624,tr-org:Organization,5000359624,,,"200 VESEY ST
+NEW YORK
+NEW YORK
+",,tr-org:statusActive,,,,,,,,,,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,American Express Business Loan Corp,,,,,,,,
+https://permid.org/1-4295902795,tr-org:Organization,4295902795,https://permid.org/1-21475480682,https://permid.org/1-8589951145,"Suite 320
+100 Mill Plain Road
+DANBURY
+CONNECTICUT
+06811
+",,tr-org:statusInActive,,16507985288,,,,,,,,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,http://www.ntracq.com,Ntr Acquisition Co,,,2009-02-02T00:00:00Z,,,,,
+https://permid.org/1-5052129731,tr-org:Organization,5052129731,https://permid.org/1-25727442568,https://permid.org/1-25727442569,"1180 N Town Center Dr Ste 100
+LAS VEGAS
+NEVADA
+89144-6363
+","Cayman Islands
+",tr-org:statusActive,,17029452700,,2016-11-14T05:00:00Z,,2016-08-11T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/3580718/,http://sws.geonames.org/6252001/,https://www.gtytechnology.com/,GTY Technology Holdings Inc,,,,,,,,
+https://permid.org/1-5068315017,tr-org:Organization,5068315017,https://permid.org/1-25727442568,https://permid.org/1-25727442569,"84 State Street
+
+
+BOSTON
+MASSACHUSETTS
+02110-1727
+","84 State Street
+
+
+BOSTON
+MASSACHUSETTS
+02110-1727
+",tr-org:statusActive,,17029452700,tr-org:publiclyHeld,2016-11-14T05:00:00Z,,2018-09-06T00:00:00Z,https://permid.org/1-4294952830,https://permid.org/1-4294952723,https://permid.org/1-4294952829,,,,Gty Technology Holdings Inc,,,,,,,,
+https://permid.org/1-5038303931,tr-org:Organization,5038303931,https://permid.org/1-21522698899,https://permid.org/1-21521828740,"4000 Ponce de Leon Blvd Ste 650
+
+
+CORAL GABLES
+FLORIDA
+33146-1431
+","251 Little Falls Dr
+WILMINGTON
+DELAWARE
+19808-1674
+",tr-org:statusActive,,13054216364,tr-org:publiclyHeld,2013-04-04T04:00:00Z,549300PUEQ0HSP3IRZ09,2013-01-16T00:00:00Z,https://permid.org/1-4294952915,https://permid.org/1-4294952746,https://permid.org/1-4294952742,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,http://www.hemispheretv.com/,Hemisphere Media Group Inc,13026365454,13026365400,,,,,,
+https://permid.org/1-5066621111,tr-org:Organization,5066621111,https://permid.org/1-25727383829,https://permid.org/1-25727383830,"800 Westchester Ave Ste 632
+
+
+RYE BROOK
+NEW YORK
+10573-1354
+","251 Little Falls Dr
+WILMINGTON
+DELAWARE
+19808-1674
+",tr-org:statusActive,,19147015260,tr-org:publiclyHeld,2018-12-11T05:00:00Z,,2018-06-11T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,https://samcospac.com/,Schultze Special Purpose Acquisition Corp,13026365454,13026365400,,,,,,
+https://permid.org/1-5046050363,tr-org:Organization,5046050363,https://permid.org/1-21569626400,https://permid.org/1-21569626398,"4100 N. Chapel Ridge Rd
+Suite 200
+
+LEHI
+UTAH
+84043
+","Corporation Trust Center
+1209 N Orange St
+WILMINGTON
+DELAWARE
+19801-1120
+",tr-org:statusActive,,18017562600,tr-org:publiclyHeld,2015-07-30T04:00:00Z,,2015-05-19T00:00:00Z,https://permid.org/1-4294952903,https://permid.org/1-4294952746,https://permid.org/1-4294952799,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,https://purple.com/,Purple Innovation Inc,13026555049,13026587581,,,,,,
+https://permid.org/1-4296755817,tr-org:Organization,4296755817,,,"1315 Bonnie Brae St
+HERMOSA BEACH
+CALIFORNIA
+90254
+",,tr-org:statusActive,,,,,,,https://permid.org/1-4294952739,https://permid.org/1-4294952740,https://permid.org/1-4294952738,,http://sws.geonames.org/6252001/,,GLOBAL ACQUISITION PARTNERS LP,,,,,,,,
+https://permid.org/1-5056426724,tr-org:Organization,5056426724,,,"1st Floor
+Les Echelons Court
+Les Echelons
+ST PETER PORT
+GY1 1AR
+Guernsey
+","1st Floor
+Les Echelons Court, Les Echelons
+South Esplanade
+GY1 1AR
+Guernsey
+",tr-org:statusActive,,,,,549300K7J4YT44EJQ878,,,,,http://sws.geonames.org/3042362/,http://sws.geonames.org/3042362/,,Global Infrastructure IPH Acquisition Partners LP,,,,,,,,
+https://permid.org/1-5001191270,tr-org:Organization,5001191270,https://permid.org/1-21475769161,https://permid.org/1-21475769160,"Palm Grove House, Palm Grove Park
+Road Town
+TORTOLA
+VG1110
+British Virgin Islands
+","PO Box 4649
+Road Town
+TORTOLA
+British Virgin Islands
+",tr-org:statusActive,,12848521894,tr-org:publiclyHeld,2010-12-10T05:00:00Z,,,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/3577718/,http://sws.geonames.org/3577718/,,FlatWorld Acquisition Corp,,,,,,,,
+https://permid.org/1-5045876003,tr-org:Organization,5045876003,https://permid.org/1-21569402862,https://permid.org/1-21569402849,"C/O Electrum Group Llc
+535 Madison Avenue, 11Th Floor
+NEW YORK
+NEW YORK
+10022
+","Nemours Chambers, Road Town
+TORTOLA
+British Virgin Islands
+",tr-org:statusActive,,16463651600,,2015-06-11T04:00:00Z,,2014-12-12T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/3577718/,http://sws.geonames.org/6252001/,,Electrum Special Acquisition Corp,,,,,,,,
+https://permid.org/1-4295902207,tr-org:Organization,4295902207,https://permid.org/1-55838848126,https://permid.org/1-8589964120,"711 5th Ave
+NEW YORK
+NEW YORK
+10022-3111
+","DELAWARE
+",tr-org:statusActive,,12129813240,,,,2005-07-13T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,Phoenix India Acquisition Corp,,,,,,,,
+https://permid.org/1-5051779426,tr-org:Organization,5051779426,https://permid.org/1-25727442550,https://permid.org/1-25727442551,"2001 Westside Pkwy Ste 155
+
+
+ALPHARETTA
+GEORGIA
+30004-8905
+","850 New Burton Rd Ste 201
+DOVER
+DELAWARE
+19904-5786
+",tr-org:statusActive,,18009355961,tr-org:publiclyHeld,2016-09-14T04:00:00Z,549300ZS6DXD7ROBKB40,2015-04-23T00:00:00Z,https://permid.org/1-4294952739,https://permid.org/1-4294952740,https://permid.org/1-4294952738,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,https://prth.com/,Priority Technology Holdings Inc,18002535177,18004831140,,,,,,
+https://permid.org/1-5066588738,tr-org:Organization,5066588738,https://permid.org/1-25727383931,https://permid.org/1-25727383932,"2929 Arch St Ste 1703
+
+
+PHILADELPHIA
+PENNSYLVANIA
+19104-2857
+","110 S Poplar St Ste 101
+WILMINGTON
+DELAWARE
+19801-5034
+",tr-org:statusActive,,12157019555,tr-org:publiclyHeld,2019-01-07T05:00:00Z,,2017-03-20T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,Fintech Acquisition Corp III,,,,,,,,
+https://permid.org/1-5076354219,tr-org:Organization,5076354219,,,"2929 Arch Street Ste 1703
+
+
+PHILADELPHIA
+PENNSYLVANIA
+19104
+","
+
+
+DELAWARE
+",tr-org:statusActive,,14844593476,,,,,,,,,,,Fintech Acquisition Iii Parent Corp,,,,,,,,
+https://permid.org/1-5068335345,tr-org:Organization,5068335345,https://permid.org/1-25727373965,https://permid.org/1-21690192214,"13211 Merriman Road
+
+
+LIVONIA
+MICHIGAN
+48150
+","Corporation Trust Center
+1209 Orange Street
+New Castle County
+WILMINGTON
+DELAWARE
+19801
+",tr-org:statusActive,,12484496700,tr-org:publiclyHeld,2019-04-09T04:00:00Z,,2018-10-30T00:00:00Z,https://permid.org/1-4294952962,https://permid.org/1-4294952767,https://permid.org/1-4294952962,,,,Alta Equipment Group Inc,13026555049,13026587581,,,,,,
+https://permid.org/1-5068337434,tr-org:Organization,5068337434,https://permid.org/1-25727375585,https://permid.org/1-21687373304,"767 5th Ave Fl 46
+
+
+NEW YORK
+NEW YORK
+10153-0023
+","Cayman Islands
+",tr-org:statusActive,,12128912700,tr-org:publiclyHeld,2019-04-04T04:00:00Z,,2018-11-06T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/3580718/,,https://www.replayacquisition.com/,Replay Acquisition Corp,,,,,,,,
+https://permid.org/1-4295902837,tr-org:Organization,4295902837,https://permid.org/1-21475483116,https://permid.org/1-8589994039,"121 Alhambra Plaza, Suite 1100
+CORAL GABLES
+FLORIDA
+33134
+","3411 Silverside Road, Suite 104
+Tatnall Building
+New Castle County
+WILMINGTON
+DELAWARE
+19810
+",tr-org:statusActive,,13054611162,,,,2006-06-02T00:00:00Z,,,,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,http://www.mbfhealthcarepartners.com,MBF Healthcare Acquisition Corp,,18006729110,,,,,,
+https://permid.org/1-4297877679,tr-org:Organization,4297877679,https://permid.org/1-55838800352,https://permid.org/1-8590884585,"61 Hue Lane
+Hai Ba Trung District
+HANOI
+HANOI
+Vietnam
+","offices of Trust Company Complex
+Ajeltake Island, P.O. Box 1405
+MAJURO
+MH96960
+Marshall Islands
+",tr-org:statusActive,,,,,,2007-08-08T00:00:00Z,https://permid.org/1-4294952737,https://permid.org/1-4294952740,https://permid.org/1-4294952736,http://sws.geonames.org/2080185/,http://sws.geonames.org/1562822/,,Bbv Vietnam SEA Acquisition Corp,,,,,,,,
+https://permid.org/1-5000124107,tr-org:Organization,5000124107,https://permid.org/1-55853551565,https://permid.org/1-8591360178,"1193 Seven Oaks Rd
+WAYNESBORO
+GEORGIA
+30830-4762
+","DELAWARE
+95050
+",tr-org:statusActive,,17066216737,,,,2009-08-27T00:00:00Z,https://permid.org/1-4294952894,https://permid.org/1-4294952895,https://permid.org/1-4294952889,http://sws.geonames.org/6252001/,http://sws.geonames.org/6252001/,,Cullen Agricultural Holding Corp,,,,,,,,
+https://permid.org/1-8590013352,tr-fin:Instrument,8590013352,,,,,,,,,,,,,,,,,,,,,,Two Harbors Investment REIT Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-55835022331,https://permid.org/1-5000066586
+https://permid.org/1-25727399608,tr-fin:Instrument,25727399608,,,,,,,,,,,,,,,,,,,,,,HL Acquisitions Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-25727399607,https://permid.org/1-5064585796
+https://permid.org/1-21482930384,tr-fin:Instrument,21482930384,,,,,,,,,,,,,,,,,,,,,,BGS Acquisition Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusInActive,https://permid.org/1-21504039323,https://permid.org/1-5037131769
+https://permid.org/1-25727402028,tr-fin:Instrument,25727402028,,,,,,,,,,,,,,,,,,,,,,Trident Acquisitions Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-25727402027,https://permid.org/1-4296139768
+https://permid.org/1-25727367036,tr-fin:Instrument,25727367036,,,,,,,,,,,,,,,,,,,,,,Tuscan Holdings Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-25727367035,https://permid.org/1-5068934015
+https://permid.org/1-25727377821,tr-fin:Instrument,25727377821,,,,,,,,,,,,,,,,,,,,,,Tuscan Holdings Units,https://permid.org/1-302043,tr-fin:instrumentStatusActive,https://permid.org/1-25727377820,https://permid.org/1-5067935895
+https://permid.org/1-25727356580,tr-fin:Instrument,25727356580,,,,,,,,,,,,,,,,,,,,,,Alussa Energy Acquisition Ord Shs Class A,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-25727356554,https://permid.org/1-5071525193
+https://permid.org/1-21688992873,tr-fin:Instrument,21688992873,,,,,,,,,,,,,,,,,,,,,,ChaSerg Technology Acquisition Ord Shs Class B (Unlisted),https://permid.org/1-300281,tr-fin:instrumentStatusActive,,https://permid.org/1-5065371456
+https://permid.org/1-21662543191,tr-fin:Instrument,21662543191,,,,,,,,,,,,,,,,,,,,,,ChaSerg Technology Acquisition Units,https://permid.org/1-302043,tr-fin:instrumentStatusInActive,https://permid.org/1-25727394832,https://permid.org/1-5065371456
+https://permid.org/1-25727356194,tr-fin:Instrument,25727356194,,,,,,,,,,,,,,,,,,,,,,LIV Capital Acquisition Class A Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-25727356192,https://permid.org/1-5071553026
+https://permid.org/1-21607801584,tr-fin:Instrument,21607801584,,,,,,,,,,,,,,,,,,,,,,Vantage Energy Acquisition Units,https://permid.org/1-302043,tr-fin:instrumentStatusInActive,https://permid.org/1-25727437810,https://permid.org/1-5054412488
+https://permid.org/1-8590020360,tr-fin:Instrument,8590020360,,,,,,,,,,,,,,,,,,,,,,Riscorp Inc Rights,https://permid.org/1-300281,tr-fin:instrumentStatusInActive,https://permid.org/1-21475335465,https://permid.org/1-5000088092
+https://permid.org/1-8590943359,tr-fin:Instrument,8590943359,,,,,,,,,,,,,,,,,,,,,,American Business Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-55835381765,https://permid.org/1-4295900385
+https://permid.org/1-8589951145,tr-fin:Instrument,8589951145,,,,,,,,,,,,,,,,,,,,,,NTR Acquisition Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusInActive,https://permid.org/1-21475480682,https://permid.org/1-4295902795
+https://permid.org/1-25727442569,tr-fin:Instrument,25727442569,,,,,,,,,,,,,,,,,,,,,,GTY Technology Holdings Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-25727442568,https://permid.org/1-5068315017
+https://permid.org/1-21521828740,tr-fin:Instrument,21521828740,,,,,,,,,,,,,,,,,,,,,,Hemisphere Media Group Ord Shs Class A,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-21522698899,https://permid.org/1-5038303931
+https://permid.org/1-25727383830,tr-fin:Instrument,25727383830,,,,,,,,,,,,,,,,,,,,,,Schultze Special Purpose Acquisition Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-25727383829,https://permid.org/1-5066621111
+https://permid.org/1-21565620785,tr-fin:Instrument,21565620785,,,,,,,,,,,,,,,,,,,,,,Global Partner Acquisition Units,https://permid.org/1-302043,tr-fin:instrumentStatusInActive,https://permid.org/1-21565699594,https://permid.org/1-5046050363
+https://permid.org/1-8589967256,tr-fin:Instrument,8589967256,,,,,,,,,,,,,,,,,,,,,,Global Services Partners Acquisition Class B Units,https://permid.org/1-302043,tr-fin:instrumentStatusInActive,https://permid.org/1-55839921345,https://permid.org/1-4298052425
+https://permid.org/1-21475769160,tr-fin:Instrument,21475769160,,,,,,,,,,,,,,,,,,,,,,Flatworld Acquisition Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-21475769161,https://permid.org/1-5001191270
+https://permid.org/1-21569402849,tr-fin:Instrument,21569402849,,,,,,,,,,,,,,,,,,,,,,Electrum Special Acquisition Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusInActive,https://permid.org/1-21569402862,https://permid.org/1-5045876003
+https://permid.org/1-8589964120,tr-fin:Instrument,8589964120,,,,,,,,,,,,,,,,,,,,,,Phoenix India Acquisition Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusInActive,https://permid.org/1-55838848126,https://permid.org/1-4295902207
+https://permid.org/1-25727442551,tr-fin:Instrument,25727442551,,,,,,,,,,,,,,,,,,,,,,Priority Technology Holdings Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-25727442550,https://permid.org/1-5051779426
+https://permid.org/1-25727383932,tr-fin:Instrument,25727383932,,,,,,,,,,,,,,,,,,,,,,FinTech Acquisition Ord Shs Class A,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-25727383931,https://permid.org/1-5066588738
+https://permid.org/1-21690192214,tr-fin:Instrument,21690192214,,,,,,,,,,,,,,,,,,,,,,Alta Equipment Group Ord Shs Class A,https://permid.org/1-300281,tr-fin:instrumentStatusActive,https://permid.org/1-25727373965,https://permid.org/1-5068335345
+https://permid.org/1-21687373304,tr-fin:Instrument,21687373304,,,,,,,,,,,,,,,,,,,,,,Replay Acquisition Units,https://permid.org/1-302043,tr-fin:instrumentStatusActive,https://permid.org/1-25727375585,https://permid.org/1-5068337434
+https://permid.org/1-8589994039,tr-fin:Instrument,8589994039,,,,,,,,,,,,,,,,,,,,,,MBF Healthcare Acquisition Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusInActive,https://permid.org/1-21475483116,https://permid.org/1-4295902837
+https://permid.org/1-8590884585,tr-fin:Instrument,8590884585,,,,,,,,,,,,,,,,,,,,,,BBV Vietnam S E A Acquisition Ord Shs,https://permid.org/1-300281,tr-fin:instrumentStatusInActive,https://permid.org/1-55838800352,https://permid.org/1-4297877679
